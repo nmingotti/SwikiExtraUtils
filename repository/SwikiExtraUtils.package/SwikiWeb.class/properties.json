@@ -1,0 +1,14 @@
+{
+	"category" : "SwikiExtraUtils",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NM 9/2/2019 03:02",
+	"instvars" : [
+		 ],
+	"name" : "SwikiWeb",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
